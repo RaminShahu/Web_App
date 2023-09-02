@@ -1,4 +1,4 @@
-                                                                                          Social Student Web App
+                                Social Student Web App
 
 Features:
 
